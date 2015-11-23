@@ -2,3 +2,4 @@ added a new file in git master
 added a new code into the branch1
 checking the merge concept and branching statgi
 merge a file in branch to master
+hi sudha
